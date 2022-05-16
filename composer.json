@@ -1,11 +1,11 @@
 {
-    "name": "zazTest/helloworldwebclient",
+    "name": "zaztest/helloworldwebclient",
     "description": "package plugin test",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "zazTest\\Helloworldwebclient\\": "src/"
+            "zaztest\\Helloworldwebclient\\": "src/"
         }
     },
     "authors": [
