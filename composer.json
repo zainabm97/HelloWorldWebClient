@@ -1,7 +1,7 @@
 {
     "name": "vendor/helloworldwebclient",
     "description": "package plugin test",
-    "type": "composer-plugin",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
