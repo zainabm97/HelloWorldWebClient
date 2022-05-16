@@ -1,8 +1,8 @@
 {
-    "name": "hwlloworld/helloworldwebclient",
-    "type": "plugin",
-    "description": "blaaa",
-    "license": "All rights reserved.",
-    "version": "0.0.1",
-    "keywords": ["a", "b", "c"] 
+    "name": "vendors/helloworldwebclient",
+    "description": "A short description of what your package does",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
 }
