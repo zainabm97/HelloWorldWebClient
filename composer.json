@@ -1,11 +1,11 @@
 {
-    "name": "afterlogic/helloworldwebclient",
+    "name": "zazTest/helloworldwebclient",
     "description": "package plugin test",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "afterlogic\\Helloworldwebclient\\": "src/"
+            "zazTest\\Helloworldwebclient\\": "src/"
         }
     },
     "authors": [
