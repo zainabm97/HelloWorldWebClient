@@ -1,11 +1,11 @@
 {
-    "name": "vendor/helloworldwebclient",
+    "name": "afterlogic/helloworldwebclient",
     "description": "package plugin test",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Vendor\\Helloworldwebclient\\": "src/"
+            "afterlogic\\Helloworldwebclient\\": "src/"
         }
     },
     "authors": [
