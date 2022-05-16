@@ -2,7 +2,7 @@
     "name": "vendors/helloworldwebclient",
     "description": "A short description of what your package does",
     "require": {
-        "php": ">=7.4",
+        "php": "^7.3|^8.0",
         "another-vendor/package": "1.*"
     }
 }
