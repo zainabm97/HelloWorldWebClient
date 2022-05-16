@@ -1,8 +1,18 @@
 {
-    "name": "vendors/helloworldwebclient",
-    "description": "A short description of what your package does",
-    "require": {
-        "php": "^7.3|^8.0",
-        "another-vendor/package": "1.*"
-    }
+    "name": "vendor/helloworldwebclient",
+    "description": "package plugin test",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Helloworldwebclient\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zainab mohammed"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
 }
