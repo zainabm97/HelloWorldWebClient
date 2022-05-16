@@ -1,0 +1,8 @@
+{
+    "name": "hwlloworld/helloworldwebclient",
+    "type": "plugin",
+    "description": "blaaa",
+    "license": "All rights reserved.",
+    "version": "0.0.1",
+    "keywords": ["a", "b", "c"] 
+}
